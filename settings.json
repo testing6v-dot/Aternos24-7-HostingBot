@@ -1,8 +1,8 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+    "username": "XMAURAX-BOT",
+    "password": "XMAURAX",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "XMAURAX"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "انا جامد ياض",
+        "انا البوت بتاع الديف "
       ]
     },
     "chat-log": true,
@@ -72,8 +72,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1560575448516268053/Ln4mzfpv_9VpGfZWG38y_oBmOuidLomhTICuFoqCZ1GMo5viCSpzm9_LqOefMOuFePK2",
     "events": {
       "connect": true,
       "disconnect": true,
